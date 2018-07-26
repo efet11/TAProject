@@ -1,2 +1,3 @@
 print("Welcome")
 print("Second")
+print("Merge 1")
